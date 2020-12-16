@@ -1,0 +1,11 @@
+mobile_transfer.py
+saved_models/
+runs/
+train.out
+train96.out
+calculate_IoU.py
+model/model_summary_v2(light).txt
+model/unetv2_parts.py
+model/parameters.txt
+model/__pycache__/
+mask_process.py
